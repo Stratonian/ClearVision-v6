@@ -9,6 +9,7 @@
  * @BDEditor Clear Vision
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
@@ -27,15 +28,15 @@
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 50%;
-  --background-invert: 0%;
-  --background-blur: 3px;
+  --background-invert: 25%;
+  --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 0%;
+  --user-popout-brightness: 100%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
@@ -46,7 +47,7 @@
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
-  --user-modal-brightness: 0%;
+  --user-modal-brightness: 100%;
   --user-modal-contrast: 100%;
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
@@ -63,7 +64,7 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: gg sans;
+  --main-font: Roboto;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
