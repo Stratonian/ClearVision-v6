@@ -13,10 +13,10 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #C4B4BF;
-  --hover-color: #4C4449;
-  --success-color: #43b581;
-  --danger-color: #982929;
+  --main-color: #CC6666;
+  --hover-color: #AA3355;
+  --success-color: #44DD88;
+  --danger-color: #881177;
   --url-color: var(--main-color);
   --background-image: url('https://i.imgur.com/J6PogSG.jpg');
   --background-shading: 0%;
@@ -31,7 +31,7 @@
   --background-invert: 25%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://i.imgur.com/ooiOHQB.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -39,10 +39,10 @@
   --user-popout-brightness: 100%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
-  --user-popout-grayscale: 0%;
-  --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-grayscale: 50%;
+  --user-popout-invert: 15%;
+  --user-popout-blur: 0px;
+  --user-modal-image: url('https://i.imgur.com/Cccatvm.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
