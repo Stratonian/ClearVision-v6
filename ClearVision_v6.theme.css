@@ -12,13 +12,13 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #2780e6;
-  --hover-color: #1e63b3;
+  --main-color: #C4B4BF;
+  --hover-color: #4C4449;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
   --background-image: url('https://i.imgur.com/J6PogSG.jpg');
-  --background-shading: 98%;
+  --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
