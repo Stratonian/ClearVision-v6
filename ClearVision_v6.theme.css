@@ -87,3 +87,10 @@
 }
 
 /* Any custom CSS below here */
+.container-3s2w-i {
+  background: none !important;
+}
+
+.resizeHandle-2F4Beb {
+  background: var(--main-color) !important;
+}
